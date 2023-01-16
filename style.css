@@ -1,0 +1,47 @@
+body {
+    color: midnightblue;
+    font-family: Helvetica Neue;
+}
+
+.product {
+    margin: 5px;
+    display: inline-block;
+    
+}
+.img {
+   max-width: 100%;
+   width: 408px;
+   height: 288px;
+}
+
+#basketImage {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}
+
+#itemCounter {
+    position: absolute;
+    right: 56px;
+    top: 0px;
+}
+
+#orderTotal {
+    margin-right: 16px;
+    text-align: right;
+}
+
+#shippingTotal {
+    margin-right: 16px;
+    text-align: right;
+}
+
+.item {
+    margin: 5px;
+}
+
+.container {
+    
+    margin: 30px 5px 5px 5px;
+    border: solid 2px;
+}
