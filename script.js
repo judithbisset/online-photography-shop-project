@@ -8,6 +8,24 @@ const sheep = {
  name: "Sheep",
  price: 1250
 };
+const cat = {
+ name: "Cat",
+ price: 1300
+};
+const cows = {
+ name: "Cows",
+ price: 1000
+};
+const house = {
+ name: "House",
+ price: 1200
+};
+const road = {
+ name: "Road",
+ price: 1500
+};
+
+
 
 function addToCart(item) {
  cartItems.push(item);
